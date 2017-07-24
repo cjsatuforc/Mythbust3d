@@ -1,2 +1,2 @@
-Nextion code
-Nextion design for Nextion Editor
+Nextion code.
+Nextion design for Nextion Editor.
